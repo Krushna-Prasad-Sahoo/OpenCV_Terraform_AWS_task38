@@ -1,8 +1,8 @@
 provider "aws" {
     profile = "default"
     region = "us-east-1"
-    access_key = "AKIA3M4LMWDPL4IGY4MV"
-    secret_key = "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"
+    access_key = "AXXXXXXXXXXXXXXXXXXXXXXXXX"
+    secret_key = "NLpmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
 
 resource "aws_instance"  "kpOS" {
